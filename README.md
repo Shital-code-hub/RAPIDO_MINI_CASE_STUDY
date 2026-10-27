@@ -4,6 +4,8 @@
 
 This repository contains a comprehensive SQL-based case study analyzing operational and transactional data for Rapido, a leading bike-taxi and ride-aggregator platform. The project explores user riding behavior, vehicle preferences (Cab AC vs. Non-AC), driver-customer interactions, and distance segmentations to derive actionable business insights.
 
+---
+
 📂 Repository Structure & Query Breakdown
 The case study is solved across 15 analytical checkpoints covering various dimensions of the business:
 
