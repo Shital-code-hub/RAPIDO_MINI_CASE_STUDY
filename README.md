@@ -1,6 +1,6 @@
 # 🛵 Rapido Ride-Hailing Data Analysis Case Study
 
-📌 Project Overview
+#📌 Project Overview
 
 This repository contains a comprehensive SQL-based case study analyzing operational and transactional data for Rapido, a leading bike-taxi and ride-aggregator platform. The project explores user riding behavior, vehicle preferences (Cab AC vs. Non-AC), driver-customer interactions, and distance segmentations to derive actionable business insights.
 
